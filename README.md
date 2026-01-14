@@ -1,26 +1,70 @@
-# Hi, I'm Eduardo 👋
+# Hi, I'm Eduardo 👋  
 
-Passionate web developer  with  focus on Front-End development 
+Senior Front-End & Full-Stack AEM Developer with a strong background in building scalable, high-performance web applications for large enterprise and e-commerce platforms.
 
-- 🔭 Currently working on AEM with Vue.js
-- 🌱 Learning anything I can get my hands on!
-- 👯 Always looking to collaborate
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/eduardonowakoski/) 
+I transitioned from Civil Engineering to Software Development in 2022 and have since been working end-to-end with modern front-end frameworks and Adobe Experience Manager (AEM), delivering robust, modular and highly authorable solutions.
 
+---
 
-<div align="center">
-  <a href="https://github.com/eduardonowa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardonowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonowa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🚀 About Me
 
+- 💼 Senior Front-End & Full-Stack AEM Developer  
+- 🧩 Specialized in **Adobe Experience Manager (AEM)** ecosystem  
+- 🏗️ Strong experience with **Vue.js (2 & 3)**, **Angular**, and microfrontend architectures  
+- 🧪 Advocate of clean code, testing culture and scalable architectures  
+- 🌍 Advanced English 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+---
 
-</div>
+## 🛠️ Tech Stack
+
+**Front-End**
+- JavaScript / TypeScript  
+- Vue.js (2 & 3), Pinia, Vuex  
+- Angular  
+- HTML5, CSS3, SCSS/SASS
+- React
+- Next.js
+
+**AEM & Back-End**
+- Adobe Experience Manager (AEM)  
+- HTL (Sightly)  
+- Sling Models (Java)  
+- Experience Fragments & Editable Templates  
+
+**Architecture & Practices**
+- Microfrontends  
+- Design Systems  
+- REST API Integration  
+- Performance Optimization  
+- Accessibility & Authoring Experience  
+
+**Testing & Tooling**
+- Jest  
+- Cypress  
+- GitFlow  
+- CI/CD Pipelines  
+- GitLab, Azure DevOps, Bitbucket  
+- Jira, Postman  
+
+---
+
+## 🧠 What I Work With Daily
+
+- Developing scalable front-end applications fully integrated with AEM  
+- Creating reusable components, templates and content structures  
+- Designing and evolving design systems connected to CMS authoring  
+- Migrating legacy portals to modern Angular or Vue + AEM architectures  
+- Collaborating closely with UX, product and business teams  
+- Improving performance, maintainability and authoring autonomy  
+
+---
+
+## 🔗 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/eduardonowakoski](https://www.linkedin.com/in/eduardonowakoski/)  
+- 📫 Email: eduardo_nowa@hotmail.com  
+
+---
+
+⭐ Always open to collaborating on challenging projects involving Front-End, AEM and scalable web architectures.
