@@ -10,7 +10,7 @@ I transitioned from Civil Engineering to Software Development in 2022 and have s
 
 - 💼 Senior Front-End & Full-Stack AEM Developer  
 - 🧩 Specialized in **Adobe Experience Manager (AEM)** ecosystem  
-- 🏗️ Strong experience with **Vue.js (2 & 3)**, **Angular**, and microfrontend architectures  
+- 🏗️ Strong experience with **Vue.js (2 & 3)**, **Angular**, **React** and microfrontend architectures  
 - 🧪 Advocate of clean code, testing culture and scalable architectures  
 - 🌍 Advanced English 
 
