@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo 👋  
 
-Senior Front-End & Full-Stack AEM Developer with a strong background in building scalable, high-performance web applications for large enterprise and e-commerce platforms.
+Senior Front-End & Full-Stack AEM Engineer with a strong background in building scalable, high-performance web applications for large enterprise and e-commerce platforms.
 
 I transitioned from Civil Engineering to Software Development in 2022 and have since been working end-to-end with modern front-end frameworks and Adobe Experience Manager (AEM), delivering robust, modular and highly authorable solutions.
 
@@ -19,11 +19,11 @@ I transitioned from Civil Engineering to Software Development in 2022 and have s
 ## 🛠️ Tech Stack
 
 **Front-End**
+- HTML5, CSS3, SCSS/SASS
 - JavaScript / TypeScript  
 - Vue.js (2 & 3), Pinia, Vuex  
 - Angular  
-- HTML5, CSS3, SCSS/SASS
-- React
+- React, Redux, Zustand
 - Next.js
 
 **AEM & Back-End**
