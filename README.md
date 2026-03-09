@@ -1,70 +1,74 @@
 # Hi, I'm Eduardo 👋  
 
-Senior Front-End & Full-Stack AEM Engineer with a strong background in building scalable, high-performance web applications for large enterprise and e-commerce platforms.
+Senior AEM Engineer specializing in enterprise-grade Adobe Experience Manager solutions, scalable CMS architectures and modern front-end integrations.
 
-I transitioned from Civil Engineering to Software Development in 2022 and have since been working end-to-end with modern front-end frameworks and Adobe Experience Manager (AEM), delivering robust, modular and highly authorable solutions.
+I design and implement modular, highly authorable AEM platforms for large corporate and e-commerce environments, focusing on performance, maintainability and long-term scalability.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Senior Front-End & Full-Stack AEM Developer  
-- 🧩 Specialized in **Adobe Experience Manager (AEM)** ecosystem  
-- 🏗️ Strong experience with **Vue.js (2 & 3)**, **Angular**, **React** and microfrontend architectures  
-- 🧪 Advocate of clean code, testing culture and scalable architectures  
-- 🌍 Advanced English 
+- 💼 Senior AEM Engineer (AEM 6.x & AEM as a Cloud Service)
+- 🧩 Specialist in Sling Models (Java), HTL, OSGi and component-driven architectures
+- 🏗️ Experience leading legacy portal migrations to modern AEM-based ecosystems
+- ⚙️ Strong background integrating microfrontends (Angular, Vue, React) with AEM
+- 🚀 Focused on authoring experience, reusable components and scalable CMS governance
+- 🌍 Advanced English
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Expertise
 
-**Front-End**
-- HTML5, CSS3, SCSS/SASS
-- JavaScript / TypeScript  
-- Vue.js (2 & 3), Pinia, Vuex  
-- Angular  
-- React, Redux, Zustand
+### Adobe Experience Manager
+- AEM 6.x & AEM as a Cloud Service
+- Sling Models (Java)
+- HTL (Sightly)
+- OSGi configurations
+- Editable Templates & Content Policies
+- Experience Fragments
+- Dispatcher & caching strategies
+- AEM Archetype customization
+
+### Architecture & Engineering
+- Enterprise CMS architecture
+- Microfrontend integration
+- Design Systems connected to CMS
+- REST API integrations
+- Performance optimization
+- Accessibility & scalable content structures
+
+### Front-End Integration
+- TypeScript / JavaScript
+- Angular
+- Vue.js (2 & 3)
+- React
 - Next.js
 
-**AEM & Back-End**
-- Adobe Experience Manager (AEM)  
-- HTL (Sightly)  
-- Sling Models (Java)  
-- Experience Fragments & Editable Templates  
-
-**Architecture & Practices**
-- Microfrontends  
-- Design Systems  
-- REST API Integration  
-- Performance Optimization  
-- Accessibility & Authoring Experience  
-
-**Testing & Tooling**
-- Jest  
-- Cypress  
-- GitFlow  
-- CI/CD Pipelines  
-- GitLab, Azure DevOps, Bitbucket  
-- Jira, Postman  
+### DevOps & Delivery
+- CI/CD pipelines
+- GitFlow
+- Cloud-based deployments
+- GitLab, Azure DevOps, Bitbucket
+- Automated testing (Jest, Cypress)
 
 ---
 
 ## 🧠 What I Work With Daily
 
-- Developing scalable front-end applications fully integrated with AEM  
-- Creating reusable components, templates and content structures  
-- Designing and evolving design systems connected to CMS authoring  
-- Migrating legacy portals to modern Angular or Vue + AEM architectures  
-- Collaborating closely with UX, product and business teams  
-- Improving performance, maintainability and authoring autonomy  
+- Developing reusable AEM components and templates
+- Designing scalable content architectures
+- Integrating modern front-end applications with AEM
+- Migrating legacy portals to AEM-based ecosystems
+- Improving authoring autonomy and performance metrics
+- Collaborating with UX, product and business stakeholders
 
 ---
 
 ## 🔗 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/eduardonowakoski](https://www.linkedin.com/in/eduardonowakoski/)  
-- 📫 Email: eduardo_nowa@hotmail.com  
+- 📫 Email: eduardo_nowa@hotmail.com
 
 ---
 
-⭐ Always open to collaborating on challenging projects involving Front-End, AEM and scalable web architectures.
+⭐ Open to opportunities and collaborations involving Adobe Experience Manager, enterprise CMS modernization and scalable web architectures.
