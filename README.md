@@ -10,7 +10,7 @@ I design and implement modular, highly authorable AEM platforms for large corpor
 
 ## About Me
 
-- 💼 Currently at **Newfold Digital** — Senior AEM Engineer (AEM as a Cloud Service)
+- 💼 Currently at **Newfold Digital** — Senior AEM Engineer
 - 🧩 4+ years building enterprise AEM solutions
 - 🧩 Specialist in Sling Models (Java), HTL, OSGi, and component-driven architectures
 - 🏗️ Led migration of 4 enterprise portals at Enel/NTT Data — 20% performance improvement, 80% incident reduction
@@ -83,7 +83,7 @@ I design and implement modular, highly authorable AEM platforms for large corpor
 - 🌐 Portfolio: [eduardonowakoski.dev](https://eduardonowakoski.dev)
 - 💼 LinkedIn: [linkedin.com/in/eduardonowakoski](https://www.linkedin.com/in/eduardonowakoski/)
 - 🐙 GitHub: [github.com/eduardonowa](https://github.com/eduardonowa)
-- 📫 Email: eduardo@eduardonowakoski.dev
+- 📫 Email: contact@eduardonowakoski.dev
 
 ---
 
