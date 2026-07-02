@@ -11,12 +11,10 @@ I design and implement modular, highly authorable AEM platforms for large corpor
 ## About Me
 
 - 💼 Currently at **Newfold Digital** — Senior AEM Engineer
-- 🧩 4+ years building enterprise AEM solutions
-- 🧩 Specialist in Sling Models (Java), HTL, OSGi, and component-driven architectures
+- 🧩 4+ years building enterprise AEM solutions for e-commerce and corporate clients
 - 🏗️ Led migration of 4 enterprise portals at Enel/NTT Data — 20% performance improvement, 80% incident reduction
-- ⚙️ Strong background integrating microfrontends (Angular, Vue, React) with AEM
-- 🎯 Focused on authoring experience, reusable components, and scalable CMS governance
-- 🌍 Advanced English (C1)
+- 🤝 Day-to-day: reusable components & templates, content architecture, legacy portal migrations, and collaboration with UX, product, and business stakeholders
+- 🌍 Advanced English (C1) — remote-first, international teams
 
 ---
 
@@ -58,23 +56,6 @@ I design and implement modular, highly authorable AEM platforms for large corpor
 - Adobe Cloud Manager, AEM Cloud Service deployments
 - GitLab, Azure DevOps, Bitbucket
 - Automated testing (Jest, Cypress)
-
----
-
-## What I Work With Daily
-
-- Developing reusable AEM components and templates
-- Designing scalable content architectures
-- Integrating modern front-end applications with AEM
-- Migrating legacy portals to AEM-based ecosystems
-- Improving authoring autonomy and performance metrics
-- Collaborating with UX, product, and business stakeholders
-
----
-
-## Open Source / Showcase
-
-- [AEM Hero Banner component](https://github.com/eduardonowa/eduardo-nowakoski-dev/tree/main/showcase/aem-hero-banner) — HTL + Sling Model + author dialog reference
 
 ---
 
